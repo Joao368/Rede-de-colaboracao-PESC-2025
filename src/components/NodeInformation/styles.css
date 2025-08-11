@@ -1,0 +1,36 @@
+.information-container {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  bottom: 0;
+  right: 0;
+  width: 820px;
+  height: auto;
+  padding: 10px;
+  margin: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.information-container div {
+  padding: 5px;
+}
+
+.information-container .node-property-name {
+  color: #afafaf;
+  font-weight: 500;
+  font-size: 0.8rem;
+}
+
+.information-container .node-property-value {
+  font-size: 0.95rem;
+}
+
+@media screen and (max-width: 880px) {
+  .information-container {
+    left: 0;
+    width: auto;
+  }
+}
