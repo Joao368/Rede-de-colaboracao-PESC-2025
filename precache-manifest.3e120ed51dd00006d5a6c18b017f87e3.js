@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44984caa91856bf34f57cd2667b5a407",
+    "revision": "a3ed7ba85cc21ef91f1f187cba6a38c8",
     "url": "/Rede-de-colaboracao-PESC-2025/index.html"
   },
   {
-    "revision": "4ba54c290e39ca31eb37",
+    "revision": "73e5c346b3542dd4a1d7",
     "url": "/Rede-de-colaboracao-PESC-2025/static/css/main.831c0a5c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ba54c290e39ca31eb37",
-    "url": "/Rede-de-colaboracao-PESC-2025/static/js/main.a2cd7ea9.chunk.js"
+    "revision": "73e5c346b3542dd4a1d7",
+    "url": "/Rede-de-colaboracao-PESC-2025/static/js/main.883159cf.chunk.js"
   },
   {
     "revision": "532f2e28704336475f0c",
