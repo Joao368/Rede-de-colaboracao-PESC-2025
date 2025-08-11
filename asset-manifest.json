@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Rede-de-colaboracao-PESC-2025/static/css/main.831c0a5c.chunk.css",
+    "main.js": "/Rede-de-colaboracao-PESC-2025/static/js/main.80bc5472.chunk.js",
+    "main.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/main.80bc5472.chunk.js.map",
+    "runtime-main.js": "/Rede-de-colaboracao-PESC-2025/static/js/runtime-main.d7b6f527.js",
+    "runtime-main.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/runtime-main.d7b6f527.js.map",
+    "static/js/2.c4b9afbf.chunk.js": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js",
+    "static/js/2.c4b9afbf.chunk.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js.map",
+    "index.html": "/Rede-de-colaboracao-PESC-2025/index.html",
+    "precache-manifest.694237e8cd928d0f2699127e8ad5ce92.js": "/Rede-de-colaboracao-PESC-2025/precache-manifest.694237e8cd928d0f2699127e8ad5ce92.js",
+    "service-worker.js": "/Rede-de-colaboracao-PESC-2025/service-worker.js",
+    "static/css/main.831c0a5c.chunk.css.map": "/Rede-de-colaboracao-PESC-2025/static/css/main.831c0a5c.chunk.css.map",
+    "static/js/2.c4b9afbf.chunk.js.LICENSE.txt": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7b6f527.js",
+    "static/js/2.c4b9afbf.chunk.js",
+    "static/css/main.831c0a5c.chunk.css",
+    "static/js/main.80bc5472.chunk.js"
+  ]
+}
