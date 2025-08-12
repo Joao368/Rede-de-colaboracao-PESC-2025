@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Rede-de-colaboracao-PESC-2025/static/css/main.831c0a5c.chunk.css",
-    "main.js": "/Rede-de-colaboracao-PESC-2025/static/js/main.883159cf.chunk.js",
-    "main.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/main.883159cf.chunk.js.map",
+    "main.js": "/Rede-de-colaboracao-PESC-2025/static/js/main.38c6409c.chunk.js",
+    "main.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/main.38c6409c.chunk.js.map",
     "runtime-main.js": "/Rede-de-colaboracao-PESC-2025/static/js/runtime-main.d7b6f527.js",
     "runtime-main.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/runtime-main.d7b6f527.js.map",
     "static/js/2.c4b9afbf.chunk.js": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js",
     "static/js/2.c4b9afbf.chunk.js.map": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js.map",
     "index.html": "/Rede-de-colaboracao-PESC-2025/index.html",
-    "precache-manifest.3e120ed51dd00006d5a6c18b017f87e3.js": "/Rede-de-colaboracao-PESC-2025/precache-manifest.3e120ed51dd00006d5a6c18b017f87e3.js",
+    "precache-manifest.8f6660af04973af95176c03709c64df1.js": "/Rede-de-colaboracao-PESC-2025/precache-manifest.8f6660af04973af95176c03709c64df1.js",
     "service-worker.js": "/Rede-de-colaboracao-PESC-2025/service-worker.js",
     "static/css/main.831c0a5c.chunk.css.map": "/Rede-de-colaboracao-PESC-2025/static/css/main.831c0a5c.chunk.css.map",
     "static/js/2.c4b9afbf.chunk.js.LICENSE.txt": "/Rede-de-colaboracao-PESC-2025/static/js/2.c4b9afbf.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d7b6f527.js",
     "static/js/2.c4b9afbf.chunk.js",
     "static/css/main.831c0a5c.chunk.css",
-    "static/js/main.883159cf.chunk.js"
+    "static/js/main.38c6409c.chunk.js"
   ]
 }

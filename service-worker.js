@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Rede-de-colaboracao-PESC-2025/precache-manifest.3e120ed51dd00006d5a6c18b017f87e3.js"
+  "/Rede-de-colaboracao-PESC-2025/precache-manifest.8f6660af04973af95176c03709c64df1.js"
 );
 
 self.addEventListener('message', (event) => {
